@@ -1,0 +1,2 @@
+# ninja-squirrel
+first repo
